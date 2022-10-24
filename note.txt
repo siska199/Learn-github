@@ -54,7 +54,7 @@ Membatalkan dari stagging index:
 --Perintah git restore hanya bisa dilakukan di state Working directory
 --Artinya perubahan yang terlanjur masuk ke staging index untuk dibatalkan tidak bisa dilakukan secara langusng dari staging index
 --Kita perlu mengembalikan posisi dari staging index ke working directory terlebih dahulu dengancara: 
->>git restore --stages [nama file]
+>>git restore --staged [nama file]
 
 Membatalkan yang sudah dicommit:
 tidak ada cara.
@@ -83,4 +83,8 @@ ke working area
 
 Amend Commit:
 Misalakan ada case perubahan yang tertinggal setelah dicommit kita bisa menggunkan reset/ammend
->>git commit --amend
+>>git commit --amend -m "...."
+
+Melihat isi file pada versi sebelumnya:
+>>git checkout hash --namefile
+jika ingin kembali ke staged sebelumnya tinggal unstaged file kamudian restore.
