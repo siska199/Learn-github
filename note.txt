@@ -101,4 +101,3 @@ Git Branch:
 Revert Commit :
 membatalkan commit sebelumnya dengan cara membuat commit baru
 >>git revert [hash]
-
