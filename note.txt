@@ -13,3 +13,26 @@ repository merupakan sebutan project di git
 How to make repository:
 1. masuk kedalam repository 
 2. gunakan perintah >>git init
+
+Three state in github:
+1. modified --> namun belum disimpan secara permanen di repository
+2. staged --> menandai bahwa file yang akan kita modified akan di simpan secara permanen ke repository
+3. commited --> artinya data sudah aman disimpan di repository 
+
+
+Three section in git:
+working diectory, staging area, and repository.
+
+Snapshot:
+snapshot berisi semua perubahan yang kita commit dan setiap 
+snapshot akan menghasilkan hash. Hash dibutuhkan untuk menjaga data integritynya.
+Setelah di commit kita tidak bisa melakukan perubahan lagi di commit tersebut.
+
+HEAD:
+HEAD merupakan pinter ke commit / hash yang paling akhir
+
+Menambah file ke repository:
+
+
+
+
