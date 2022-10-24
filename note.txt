@@ -79,5 +79,5 @@ ke stagging area
 --mixed memidahkan HEAD ke has commit tujuan kemudian mngubah commit2 sebelumnya
 ke working area
 --hard memidahkan HEAD ke has commit tujuan kemudian mendelete commit2 sebelumnya
-
+   (jika kita tidak membuat commit baru kita bisa kembali ke commit yang terbaru)
 
