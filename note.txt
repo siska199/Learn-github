@@ -60,5 +60,9 @@ Membatalkan yang sudah dicommit:
 tidak ada cara.
 cara satunya kita harus melakukan rollback, dan rever commit.
 
+Melihat history commit:
+>> git log
+>> git log --online
 
-
+Graph:
+>>git log --oneline --graph
