@@ -8,3 +8,8 @@ Configurasi di dalam git:
 >>git config --global user.email "siska.apriana@ai.astra.co.id"
 hal ini dilakukan dengan tujuan untuk mengetahui siapa pembuat perubahan
 
+repository merupakan sebutan project di git
+
+How to make repository:
+1. masuk kedalam repository 
+2. gunakan perintah >>git init
