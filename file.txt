@@ -2,3 +2,6 @@ Menambah file.txt
 perubahan pada file1
 
 hard reset:  remove gak papap
+perubahan oke baru untuk file.txt
+ada yang ketinggalan untuk perubahan di file ini padahal sudah di commit 
+so kita gunkan cara git amend
