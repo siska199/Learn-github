@@ -44,7 +44,9 @@ Cara melihat perubahan:
 Menghapus file:
 1. Langsung hapus filenya terus lakukan add and commit
 
+Membatalkan penambahan file:
+>>git clean -f (ini masih ada dalam working directory)
 
-
-
+Membatalkan perubahan file:
+>>git restore [nama file] (ini masih di working directory)
 
