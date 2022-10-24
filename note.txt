@@ -66,3 +66,18 @@ Melihat history commit:
 
 Graph:
 >>git log --oneline --graph
+
+Rubah dari Stagging to working directory:
+>>git reset [nama file]
+
+Reset Commit:
+>>git reset <mode> hash
+
+Mode git reset : 
+--soft memidahkan HEAD ke has commit tujuan kemudian mngubah commit2 sebelumnya
+ke stagging area
+--mixed memidahkan HEAD ke has commit tujuan kemudian mngubah commit2 sebelumnya
+ke working area
+--hard memidahkan HEAD ke has commit tujuan kemudian mendelete commit2 sebelumnya
+
+
