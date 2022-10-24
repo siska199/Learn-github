@@ -38,8 +38,12 @@ Menambah file ke repository:
 
 Mengubah File:
 1. Lakukan perubahan pada file yang diinginkan
-
 Cara melihat perubahan:
+>>git diff [nama file]
+
+Menghapus file:
+1. Langsung hapus filenya terus lakukan add and commit
+
 
 
 
