@@ -50,3 +50,10 @@ Membatalkan penambahan file:
 Membatalkan perubahan file:
 >>git restore [nama file] (ini masih di working directory)
 
+Membatalkan dari stagging index:
+--Perintah git restore hanya bisa dilakukan di state Working directory
+--Artinya perubahan yang terlanjur masuk ke staging index untuk dibatalkan tidak bisa dilakukan secara langusng dari staging index
+--Kita perlu mengembalikan posisi dari staging index ke working directory terlebih dahulu dengancara: 
+>>git restore --stages [nama file]
+
+
