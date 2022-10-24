@@ -101,3 +101,9 @@ Git Branch:
 Revert Commit :
 membatalkan commit sebelumnya dengan cara membuat commit baru
 >>git revert [hash]
+
+
+Blame:
+Cara mnegetahui siapa yang mmengubah suatu code untuk mencari tau siapa yang melakukan hal tersebut
+git blame [filename]
+
