@@ -56,4 +56,9 @@ Membatalkan dari stagging index:
 --Kita perlu mengembalikan posisi dari staging index ke working directory terlebih dahulu dengancara: 
 >>git restore --stages [nama file]
 
+Membatalkan yang sudah dicommit:
+tidak ada cara.
+cara satunya kita harus melakukan rollback, dan rever commit.
+
+
 
