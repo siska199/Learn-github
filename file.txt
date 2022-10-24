@@ -1,2 +1,4 @@
 Menambah file.txt
 perubahan pada file1
+
+hard reset:  remove gak papap
