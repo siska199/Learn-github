@@ -33,7 +33,14 @@ HEAD merupakan pinter ke commit / hash yang paling akhir
 
 Menambah file ke repository:
 -->untracked file artinya "ada file baru nih"
--->
+>>git add [filename]
+>>git commit -m "..."
+
+Mengubah File:
+1. Lakukan perubahan pada file yang diinginkan
+
+Cara melihat perubahan:
+
 
 
 
