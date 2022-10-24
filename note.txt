@@ -86,5 +86,15 @@ Misalakan ada case perubahan yang tertinggal setelah dicommit kita bisa menggunk
 >>git commit --amend -m "...."
 
 Melihat isi file pada versi sebelumnya:
->>git checkout hash --namefile
+>>git checkout [hash] --namefile
 jika ingin kembali ke staged sebelumnya tinggal unstaged file kamudian restore.
+
+Snapshoot Sebelumnya:
+Ngelakuin seperti time mechine:
+>>git checkout [has]
+
+Git Branch:
+>>git branch --show-current
+
+
+
