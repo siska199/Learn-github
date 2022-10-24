@@ -32,7 +32,8 @@ HEAD:
 HEAD merupakan pinter ke commit / hash yang paling akhir
 
 Menambah file ke repository:
-
+-->untracked file artinya "ada file baru nih"
+-->
 
 
 
