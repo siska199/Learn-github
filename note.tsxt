@@ -1,0 +1,10 @@
+Tiga jenis version control: 
+1. local : hanya di local computer kita
+2. centralized : solusi for team work project -->tergantung sekali dengn server
+3. distributed : example : git or mercurial dll
+
+Configurasi di dalam git:
+>>git config --global user.name "Siska Apriana Rifianti"
+>>git config --global user.email "siska.apriana@ai.astra.co.id"
+hal ini dilakukan dengan tujuan untuk mengetahui siapa pembuat perubahan
+
