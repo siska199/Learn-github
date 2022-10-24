@@ -92,9 +92,13 @@ jika ingin kembali ke staged sebelumnya tinggal unstaged file kamudian restore.
 Snapshoot Sebelumnya:
 Ngelakuin seperti time mechine:
 >>git checkout [has]
+jika ingin pindah ke "real" : 
+>>git checkout [nama branch]
 
 Git Branch:
 >>git branch --show-current
 
-
+Revert Commit :
+membatalkan commit sebelumnya dengan cara membuat commit baru
+>>git revert [hash]
 
